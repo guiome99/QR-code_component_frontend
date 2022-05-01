@@ -5,7 +5,7 @@
 
 body {
   background: hsl(212, 45%, 89%);
-  height: 100vh;
+  height: 90vh;
   display: flex;
   /* flex-direction: column; */
   align-items: center;
@@ -45,11 +45,9 @@ h2 {
 }
 
 .attribution {
-  position :absolute;
-  margin-top: 20px;
+  margin-top: 40px;
   font-size: 11px;
   text-align: center;
-  bottom: 40px;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
